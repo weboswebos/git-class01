@@ -5,3 +5,7 @@ __version__="0.1.0"
 def greet():
     print("Wenas wenas")
     print("alo alo")
+
+def freet better():
+    print("time to shine")
+    
